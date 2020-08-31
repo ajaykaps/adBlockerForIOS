@@ -852,3 +852,4 @@ yts.moatads.com
 z.admob.com
 z.moatads.com
 zhcn.admob.com
+video-akp-cdn-spotify-com.akamaized.net
